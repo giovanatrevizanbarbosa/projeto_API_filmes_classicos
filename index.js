@@ -3,7 +3,6 @@ const movies = [
     { imdbID: 'tt0066921' },
     { imdbID: 'tt0110912' },
     { imdbID: 'tt0266697' },
-    { imdbID: 'tt0102926' },
     { imdbID: 'tt0062622' },
     { imdbID: 'tt0209144' },
     { imdbID: 'tt0086250' },
