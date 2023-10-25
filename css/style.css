@@ -1,0 +1,43 @@
+/* custom css */
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.img-zoom {
+    transition: transform 0.2s;
+}
+
+.img-zoom:hover {
+    transform: scale(1.05);
+}
+
+.card-poster {
+    width: 17rem;
+    height: 25rem;
+}
+
+.bg-full-dark {
+    background-color: rgb(32, 32, 32);
+}
+
+.bg-light-dark {
+    background-color: rgb(44, 44, 44);
+}
+
+.movie-card {
+    width: 17rem;
+    height: 28rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.movie-card img {
+    width: 100%;
+    height: 25rem;
+    border-radius: 1rem;
+}
+
+.movie-card .d-flex {
+    flex-grow: 1;
+}
