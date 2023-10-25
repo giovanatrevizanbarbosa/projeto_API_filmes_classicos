@@ -10,7 +10,7 @@ const movies = [
     { imdbID: 'tt0266697'},
     { imdbID: 'tt0110912'},
     { imdbID: 'tt0086250'},
-    { imdbID: 'tt0947798'}
+    { imdbID: 'tt0133093'}
 ];
 
 function openMovieDetails(imdbID) {
